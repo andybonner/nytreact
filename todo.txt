@@ -19,7 +19,7 @@
      * If you want to try out another CSS framework, feel free to use an alternative to Bootstrap.
 
    * You'll need several Express routes for your app:
-   > Will be in routes/apiRoutes.js?
+   > Handled in routes/apiRoutes.js
 
      * `/api/saved` (get) - your components will use this to query MongoDB for all saved articles
 
